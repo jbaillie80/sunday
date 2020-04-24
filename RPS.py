@@ -2,8 +2,7 @@
 import random
 
 print("Welcome to Rock Paper Scissors, made by Jadin Baillie. Please type 'rock', 'paper', or 'scissors'"   )
-score = 0
-cscore = 0
+
 
 def computer_guess(): 
 
@@ -51,6 +50,7 @@ def check_who_wins():
         
 
 keep = 1
+
 
 
 
